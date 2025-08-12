@@ -1,0 +1,11 @@
+[run]
+branch = True
+source = app
+omit =
+    */__init__.py
+    app/app_ui.py
+
+[report]
+exclude_lines =
+    if __name__ == .__main__.:
+    pragma: no cover

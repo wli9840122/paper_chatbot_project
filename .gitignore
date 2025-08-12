@@ -1,0 +1,76 @@
+# --------------------
+# PyCharm / JetBrains
+# --------------------
+.idea/
+*.iml
+
+# --------------------
+# Python cache & build
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# --------------------
+# Virtual environments
+# --------------------
+.venv/
+venv/
+ENV/
+env/
+
+# --------------------
+# Jupyter Notebook
+# --------------------
+.ipynb_checkpoints/
+
+# --------------------
+# Data & outputs
+# --------------------
+data/
+datasets/
+outputs/
+logs/
+results/
+
+# --------------------
+# Machine Learning Models
+# --------------------
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# --------------------
+# Environment variables / secrets
+# --------------------
+.env
+.env.*
+
+# --------------------
+# Hugging Face / Transformers cache
+# --------------------
+.cache/
+huggingface/
+hf_cache/
+
+# --------------------
+# OS-specific files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# VSCode (if collaborators use it)
+# --------------------
+.vscode/
