@@ -1,7 +1,7 @@
 # 📚 AI Paper Assistant — RAG-powered Research Chatbot
 
--LangChain + RAG + Hybrid Search + Multi-Agent Orchestration
--Summarize, search, and recommend research papers in real time.
+- **LangChain + RAG + Hybrid Search + Multi-Agent Orchestration
+- **Summarize, search, and recommend research papers in real time.
 
 # 🚀 Overview
 
