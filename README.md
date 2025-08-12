@@ -1,9 +1,9 @@
-# 📚 **AI Paper Assistant — RAG-powered Research Chatbot
+# 📚 AI Paper Assistant — RAG-powered Research Chatbot
 
 LangChain + RAG + Hybrid Search + Multi-Agent Orchestration
 Summarize, search, and recommend research papers in real time.
 
-🚀 Overview
+> 🚀 Overview
 The AI Paper Assistant is an interactive research assistant that lets you:
 🔍 Search for academic papers by title or keywords.
 📝 Summarize papers into concise insights.
@@ -11,7 +11,7 @@ The AI Paper Assistant is an interactive research assistant that lets you:
 📌 Recommend related papers.
 🌐 Real-time retrieval from arXiv / Papers with Code.
 
-🧩 Tech Used
+> 🧩 Tech Used
 LangChain for orchestration.
 Retrieval-Augmented Generation (RAG).
 Hybrid search (vector + keyword).
